@@ -1,0 +1,22 @@
+{
+  "name": "lay_first_podspec",
+  "version": "0.1.0",
+  "summary": "A short description of lay_first_podspec.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/stoneLay/lay_first_podspec",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "stoneLay": "lay.zhang@beibei.com"
+  },
+  "source": {
+    "git": "https://github.com/stoneLay/lay_first_podspec.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "lay_first_podspec/Classes/**/*"
+}

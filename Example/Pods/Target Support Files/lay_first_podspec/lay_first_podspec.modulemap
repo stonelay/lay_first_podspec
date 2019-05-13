@@ -1,0 +1,6 @@
+framework module lay_first_podspec {
+  umbrella header "lay_first_podspec-umbrella.h"
+
+  export *
+  module * { export * }
+}
