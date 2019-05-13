@@ -1,0 +1,16 @@
+PODS:
+  - lay_first_podspec (0.1.0)
+
+DEPENDENCIES:
+  - lay_first_podspec (from `../`)
+
+EXTERNAL SOURCES:
+  lay_first_podspec:
+    :path: ../
+
+SPEC CHECKSUMS:
+  lay_first_podspec: 6aea4d7afd5964040d0aaecebb216ef16c701779
+
+PODFILE CHECKSUM: 59bc30cdef3bb7ef5bb3873a59663bf1d958ddfa
+
+COCOAPODS: 1.4.0

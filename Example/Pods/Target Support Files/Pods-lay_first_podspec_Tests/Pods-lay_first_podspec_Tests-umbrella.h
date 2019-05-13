@@ -10,8 +10,7 @@
 #endif
 #endif
 
-#import "ZLVideoModel.h"
 
-FOUNDATION_EXPORT double lay_first_podspecVersionNumber;
-FOUNDATION_EXPORT const unsigned char lay_first_podspecVersionString[];
+FOUNDATION_EXPORT double Pods_lay_first_podspec_TestsVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_lay_first_podspec_TestsVersionString[];
 
