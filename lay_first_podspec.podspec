@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'lay_first_podspec'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'this is my first repo'
 
 # This description is used to generate tags and improve search results.
