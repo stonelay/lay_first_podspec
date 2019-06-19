@@ -15,6 +15,8 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, strong) NSURL * url;
 @property (nonatomic, assign) NSTimeInterval currentTime;
 
+- (void)printVersion;
+
 @end
 
 NS_ASSUME_NONNULL_END

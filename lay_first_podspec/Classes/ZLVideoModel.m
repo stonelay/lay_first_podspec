@@ -9,5 +9,8 @@
 #import "ZLVideoModel.h"
 
 @implementation ZLVideoModel
-
+- (void)printVersion
+{
+    NSLog(@"version 0.2.3");
+}
 @end

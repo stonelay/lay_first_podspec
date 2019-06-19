@@ -14,4 +14,9 @@
     NSLog(@"imp");
 }
 
+- (void)imp2
+{
+    NSLog(@"imp2");
+}
+
 @end
